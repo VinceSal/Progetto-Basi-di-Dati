@@ -1,6 +1,7 @@
 # Progetto-Basi-di-Dati
 
 INFORMAZIONI GENERALI
+
 Si vuole realizzare una base di dati per la gestione di un
 sito di ‘Reselling Online’.
 Un sito di reselling online si occupa della gestione dei capi
